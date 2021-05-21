@@ -1,14 +1,17 @@
+![🇧🇷](https://static.xx.fbcdn.net/images/emoji.php/v9/t43/1/32/1f1e7_1f1f7.png) 
+
+### Heyy! 👋 
+
+Meu nome é Amanda Torres, sou Bacharel em Sistema de Informação e sigo a minha vida fazendo o que sempre gostei, conhecendo novos projetos e buscando aprender sempre mais.
+
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/amandantorres)](https://github.com/amandantorres)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amandant)](https://www.linkedin.com/in/amandant)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:amandantorres@gmail.com)](mailto:amandantorres@gmail.com)
 
-### Olá 👋 
-
-Meu nome é Amanda Torres, sou Bacharel em Sistema de Informação e sigo a minha vida fazendo o que sempre gostei, conhecendo novos projetos e buscando aprender sempre mais.
 - 📍 São Paulo - Brazil;
 - 💻 Front-end;
 - 👩🏻‍🎓 Bacharel em Sistemas de Informação;
-- 👩🏻‍💻 Estou aprendendo : Javascript, Vue JS / Vuex, UX e UI,
+- 👩🏻‍💻 Estou aprendendo: Javascript, Vue JS / Vuex, UX e UI,
 - 🎯 Objetivo: Dominar Javascript e Vue JS para conhecer outras tecnologias.
 ##### Hobbies:
 - 🎧Escutar música;
