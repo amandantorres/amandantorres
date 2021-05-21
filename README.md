@@ -7,14 +7,14 @@
 Meu nome é Amanda Torres, sou Bacharel em Sistema de Informação e sigo a minha vida fazendo o que sempre gostei, conhecendo novos projetos e buscando aprender sempre mais.
 - 📍 São Paulo - Brazil;
 - 💻 Front-end;
-- 👩🏻‍🎓 Bacharel em Sistema de Informação;
+- 👩🏻‍🎓 Bacharel em Sistemas de Informação;
 - 👩🏻‍💻 Estou aprendendo : Javascript, Vue JS / Vuex, UX e UI,
 - 🎯 Objetivo: Dominar Javascript e Vue JS para conhecer outras tecnologias.
 ##### Hobbies:
 - 🎧Escutar música;
 - 🤿 Mergulhar / Dar aula de mergulho;
 - 📝 Ler/Escrever;
-- 🎲Jogos de tabuleiro/cartas;
+- 🎲 Jogos de tabuleiro/cartas;
 - 🎮 Jogos de pc;
 - 🎸 Tocar instrumentos;
 - 🎬 Séries/Filmes,
