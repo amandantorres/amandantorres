@@ -7,6 +7,7 @@ Meu nome é Amanda Torres, sou Bacharel em Sistema de Informação e sigo a minh
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/amandantorres)](https://github.com/amandantorres)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amandant)](https://www.linkedin.com/in/amandant)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:amandantorres@gmail.com)](mailto:amandantorres@gmail.com)
+[![Behance Badge](https://img.shields.io/badge/-Behance-0254f7?style=flat-square&logo=Behance&logoColor=white&link=https://www.behance.net/amandantorres)](https://www.behance.net/amandantorres)
 
 - 📍 São Paulo - Brazil;
 - 💻 Front-end;
