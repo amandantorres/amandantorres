@@ -2,7 +2,7 @@
 
 ### Heyy! 👋 
 
-Meu nome é Amanda Torres, sou Bacharel em Sistema de Informação e sigo a minha vida fazendo o que sempre gostei, conhecendo novos projetos e buscando aprender sempre mais.
+My name is Amanda Torres, I'm a Bachelor of Information Systems and I go on with life doing what I always liked, getting to know new projects and always looking to learn more.
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/amandantorres)](https://github.com/amandantorres)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amandant)](https://www.linkedin.com/in/amandant)
@@ -11,18 +11,18 @@ Meu nome é Amanda Torres, sou Bacharel em Sistema de Informação e sigo a minh
 
 - 📍 São Paulo - Brazil;
 - 💻 Front-end;
-- 👩🏻‍🎓 Bacharel em Sistemas de Informação;
-- 👩🏻‍💻 Estou aprendendo: Javascript, Vue JS / Vuex, UX e UI,
-- 🎯 Objetivo: Dominar Javascript e Vue JS para conhecer outras tecnologias.
+- 👩🏻‍🎓 Bachelor of Information Systems;
+- 👩🏻‍💻 I'm learning: Javascript, Vue JS / Vuex, UX and UI,
+- 🎯 Goal: Master Javascript and Vue JS to learn about other technologies.
 ##### Hobbies:
-- 🎧Escutar música;
-- 🤿 Mergulhar / Dar aula de mergulho;
-- 📝 Ler/Escrever;
-- 🎲 Jogos de tabuleiro/cartas;
-- 🎮 Jogos de pc;
-- 🎸 Tocar instrumentos;
-- 🎬 Séries/Filmes,
-- 🎨 Artes em geral.
+- 🎧 listen to music;
+- 🤿 Diving / Teach diving;
+- 📝 Read / Write;
+- 🎲 Board games / card games;
+- 🎮 Computer games;
+- 🎸 Play instruments;
+- 🎬 Series / Movies,
+- 🎨 Arts in general.
 
 
 
