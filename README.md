@@ -12,7 +12,7 @@ My name is Amanda Torres, I'm a Bachelor of Information Systems and I go on with
 - 📍 São Paulo - Brazil;
 - 💻 Front-end;
 - 👩🏻‍🎓 Bachelor of Information Systems;
-- 👩🏻‍💻 I'm learning: Javascript, Vue JS / Vuex, UX and UI,
+- 👩🏻‍💻 I'm learning: Javascript, Vue JS / Vuex, UX and UI, C#, Blazor Wasm/Server, Maui + Balzor Hybrid.
 - 🎯 Goal: Master Javascript and Vue JS to learn about other technologies.
 ##### Hobbies:
 - 🎧 listen to music;
